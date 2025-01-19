@@ -16,7 +16,7 @@ EEG_Seizure_Classifier is a deep learning model that helps in classifying Seizur
         - Features Table 
     - ![Spectogram](screenshots/spectrogram.png)
         - Spectogram each channels
-    - ![Approximation and Detail Coefficients](screenshots/)
+    - ![Approximation and Detail Coefficients](screenshots/Mostscta.png)
         - Approximation and Detail Coefficients
 - ##### Built an SVM model and trained it with training data
 - ##### Built a Robust Deep Learning CNN model and trained it with
